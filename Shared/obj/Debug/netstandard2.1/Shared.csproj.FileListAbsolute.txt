@@ -1,0 +1,10 @@
+E:\Unity backup\topdownmulti\Shared\bin\Debug\netstandard2.1\Shared.deps.json
+E:\Unity backup\topdownmulti\Shared\bin\Debug\netstandard2.1\Shared.dll
+E:\Unity backup\topdownmulti\Shared\bin\Debug\netstandard2.1\Shared.pdb
+E:\Unity backup\topdownmulti\Shared\obj\Debug\netstandard2.1\Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity backup\topdownmulti\Shared\obj\Debug\netstandard2.1\Shared.AssemblyInfoInputs.cache
+E:\Unity backup\topdownmulti\Shared\obj\Debug\netstandard2.1\Shared.AssemblyInfo.cs
+E:\Unity backup\topdownmulti\Shared\obj\Debug\netstandard2.1\Shared.csproj.CoreCompileInputs.cache
+E:\Unity backup\topdownmulti\Shared\obj\Debug\netstandard2.1\Shared.sourcelink.json
+E:\Unity backup\topdownmulti\Shared\obj\Debug\netstandard2.1\Shared.dll
+E:\Unity backup\topdownmulti\Shared\obj\Debug\netstandard2.1\Shared.pdb
